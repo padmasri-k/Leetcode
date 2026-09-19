@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/padmasri-k/Leetcode/tree/master/0866-prime-palindrome) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/padmasri-k/Leetcode/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/padmasri-k/Leetcode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
