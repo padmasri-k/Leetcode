@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/padmasri-k/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
