@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/padmasri-k/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/padmasri-k/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
