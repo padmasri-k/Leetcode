@@ -28,6 +28,7 @@
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/padmasri-k/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/padmasri-k/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/padmasri-k/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/padmasri-k/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
