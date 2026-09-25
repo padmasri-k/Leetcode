@@ -80,4 +80,12 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/padmasri-k/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/padmasri-k/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
