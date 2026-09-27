@@ -28,6 +28,7 @@
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/padmasri-k/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/padmasri-k/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/padmasri-k/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/padmasri-k/Leetcode/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
