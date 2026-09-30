@@ -52,6 +52,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/padmasri-k/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/padmasri-k/Leetcode/tree/master/0866-prime-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3524-find-x-value-of-array-i](https://github.com/padmasri-k/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/padmasri-k/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/padmasri-k/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/padmasri-k/Leetcode/tree/master/0796-rotate-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/padmasri-k/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -127,4 +129,8 @@
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/padmasri-k/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
