@@ -101,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/padmasri-k/Leetcode/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -133,4 +134,12 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
