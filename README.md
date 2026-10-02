@@ -53,6 +53,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/padmasri-k/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/padmasri-k/Leetcode/tree/master/0866-prime-palindrome) |
+| [1922-count-good-numbers](https://github.com/padmasri-k/Leetcode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3524-find-x-value-of-array-i](https://github.com/padmasri-k/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/padmasri-k/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -72,6 +73,7 @@
 ## Recursion
 |  |
 | ------- |
+| [1922-count-good-numbers](https://github.com/padmasri-k/Leetcode/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
