@@ -57,6 +57,7 @@
 | [1922-count-good-numbers](https://github.com/padmasri-k/Leetcode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3524-find-x-value-of-array-i](https://github.com/padmasri-k/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/padmasri-k/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/padmasri-k/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/padmasri-k/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Number Theory
@@ -139,6 +140,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/padmasri-k/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/padmasri-k/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
