@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/padmasri-k/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/padmasri-k/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/padmasri-k/Leetcode/tree/master/2540-minimum-common-value) |
@@ -135,6 +136,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/padmasri-k/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/padmasri-k/Leetcode/tree/master/0051-n-queens) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
