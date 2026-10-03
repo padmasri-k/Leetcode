@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [3524-find-x-value-of-array-i](https://github.com/padmasri-k/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
@@ -114,6 +115,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0796-rotate-string](https://github.com/padmasri-k/Leetcode/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,11 +154,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
