@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/padmasri-k/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/padmasri-k/Leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/padmasri-k/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -157,9 +160,18 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/padmasri-k/Leetcode/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
