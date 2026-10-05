@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/padmasri-k/Leetcode/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/padmasri-k/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/padmasri-k/Leetcode/tree/master/0866-prime-palindrome) |
 | [1922-count-good-numbers](https://github.com/padmasri-k/Leetcode/tree/master/1922-count-good-numbers) |
