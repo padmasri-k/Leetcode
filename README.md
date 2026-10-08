@@ -120,6 +120,7 @@
 | [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/padmasri-k/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/padmasri-k/Leetcode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/padmasri-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/padmasri-k/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -160,6 +161,7 @@
 | [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/padmasri-k/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0022-generate-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/padmasri-k/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
