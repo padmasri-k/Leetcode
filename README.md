@@ -28,6 +28,7 @@
 | [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/padmasri-k/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
+| [0239-sliding-window-maximum](https://github.com/padmasri-k/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/padmasri-k/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -106,6 +107,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/padmasri-k/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/padmasri-k/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/padmasri-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -178,6 +180,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/padmasri-k/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -187,4 +190,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/padmasri-k/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/padmasri-k/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/padmasri-k/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
