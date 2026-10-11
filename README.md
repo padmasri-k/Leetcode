@@ -34,6 +34,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/padmasri-k/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/padmasri-k/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/padmasri-k/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/padmasri-k/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/padmasri-k/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/padmasri-k/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/padmasri-k/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -87,6 +88,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/padmasri-k/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
