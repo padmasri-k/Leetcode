@@ -6,4 +6,4 @@ class Solution:
                 if j==i+1 and nums[i]^nums[j] == 0:
                     x += 1
         return x
-            
+          
