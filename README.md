@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/padmasri-k/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/padmasri-k/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/padmasri-k/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/padmasri-k/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
@@ -125,6 +126,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/padmasri-k/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/padmasri-k/Leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/padmasri-k/Leetcode/tree/master/0141-linked-list-cycle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/padmasri-k/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
