@@ -64,6 +64,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/padmasri-k/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/padmasri-k/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/padmasri-k/Leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/padmasri-k/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/padmasri-k/Leetcode/tree/master/0866-prime-palindrome) |
 | [1922-count-good-numbers](https://github.com/padmasri-k/Leetcode/tree/master/1922-count-good-numbers) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/padmasri-k/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/padmasri-k/Leetcode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/padmasri-k/Leetcode/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/padmasri-k/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -110,6 +112,7 @@
 | ------- |
 | [0078-subsets](https://github.com/padmasri-k/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/padmasri-k/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/padmasri-k/Leetcode/tree/master/0342-power-of-four) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/padmasri-k/Leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Binary Search
 |  |
