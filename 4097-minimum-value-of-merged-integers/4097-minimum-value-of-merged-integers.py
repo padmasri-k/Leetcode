@@ -5,5 +5,3 @@ class Solution:
             a=int(str(nums[i])+str(nums[i+1]))
             s=min(s,a)
         return s
-        
-            
